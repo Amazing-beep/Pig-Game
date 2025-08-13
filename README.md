@@ -33,4 +33,5 @@ A simple 2-player dice game built with **HTML**, **CSS**, and **JavaScript** as 
 2. Open the index.html file in your browser.
 
 3. ## 📷 Screenshot
-   ![Pig Game Screenshot](screenshot.png)
+   ![Pig Game Screenshot](starter/screenshot.png)
+
